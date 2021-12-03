@@ -33,16 +33,19 @@ Safety
 Escape plans or routes
 Drills. Test and adjust
 
+##### AWS Security Guidance
+  AWS Trusted Advisor
+  AWs Account Teams
+  AWS Enterprise Support
+  AWS Partner NEtwork
+  AWS Professional Services
+  AWS Marketplace
+  AWS Security Bulletins
+  AWS Security Documentation
 
-
-6.03 Introduction to AWS Security
- Customers are responsible for security in the cloud
-
-
-6.04 AWS Shared Responsibility Model
--
-
-6.05 AWS Security Best Practices
-
-
-6.06 Introduction to IAM
+#### AWS Security Best Pracitices
+ISMS Information Security Management System
+Security responsibilities are shared between AWS and customers
+Manage user access to data using priviledged accounts and groups
+Defining and categorizing assets
+Monitoring and alerting
