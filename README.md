@@ -49,3 +49,22 @@ Security responsibilities are shared between AWS and customers
 Manage user access to data using priviledged accounts and groups
 Defining and categorizing assets
 Monitoring and alerting
+
+
+#### IAM
+https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+Identity and Access Management is a web service that helps to securily control access to AWS resourcess for users. IAM is used to control autentication and autorization.
+
+Autorization is a process of determining what persmisions a user service or application should be granted
+
+##### Features of IAM
+Shared access to account
+Granual permisions
+Secure access to AWS resroices for applications that run an AmazonEC2
+Multi-factor autentication
+Identity federation
+Identity information for assurance
+PID DSS compliance
+Integrated with many AWS services
+Consistent
+Free to use
